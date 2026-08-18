@@ -1,0 +1,14 @@
+[2026-08-08T08:00:45.054+0000] {processor.py:186} INFO - Started process (PID=685) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-08T08:00:45.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-08T08:00:45.072+0000] {logging_mixin.py:190} INFO - [2026-08-08T08:00:45.071+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-08T08:00:45.110+0000] {logging_mixin.py:190} INFO - [2026-08-08T08:00:45.100+0000] {dagbag.py:387} ERROR - Failed to import: /opt/airflow/dags/sales_validator_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 999, in exec_module
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/opt/airflow/dags/sales_validator_dag.py", line 2, in <module>
+    import datetime, timedelta
+ModuleNotFoundError: No module named 'timedelta'
+[2026-08-08T08:00:45.114+0000] {processor.py:927} WARNING - No viable dags retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-08T08:00:45.194+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.161 seconds

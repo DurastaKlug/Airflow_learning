@@ -1,0 +1,7 @@
+[2026-08-08T08:00:45.076+0000] {processor.py:186} INFO - Started process (PID=688) to work on /opt/airflow/dags/bash_python.py
+[2026-08-08T08:00:45.079+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/bash_python.py for tasks to queue
+[2026-08-08T08:00:45.093+0000] {logging_mixin.py:190} INFO - [2026-08-08T08:00:45.092+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/bash_python.py
+[2026-08-08T08:00:45.157+0000] {processor.py:925} INFO - DAG(s) 'download_rocket_launches' retrieved from /opt/airflow/dags/bash_python.py
+[2026-08-08T08:00:45.633+0000] {logging_mixin.py:190} INFO - [2026-08-08T08:00:45.632+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-08T08:00:45.648+0000] {logging_mixin.py:190} INFO - [2026-08-08T08:00:45.647+0000] {dag.py:4180} INFO - Setting next_dagrun for download_rocket_launches to None, run_after=None
+[2026-08-08T08:00:45.677+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/bash_python.py took 0.623 seconds

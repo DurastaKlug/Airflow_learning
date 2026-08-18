@@ -1,0 +1,378 @@
+[2026-08-18T00:50:04.864+0000] {processor.py:186} INFO - Started process (PID=3324) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T00:50:04.865+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T00:50:04.871+0000] {logging_mixin.py:190} INFO - [2026-08-18T00:50:04.869+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T00:50:05.592+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T00:50:05.724+0000] {logging_mixin.py:190} INFO - [2026-08-18T00:50:05.724+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T00:50:05.748+0000] {logging_mixin.py:190} INFO - [2026-08-18T00:50:05.747+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T00:50:05.783+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.929 seconds
+[2026-08-18T06:48:02.295+0000] {processor.py:186} INFO - Started process (PID=3335) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:48:02.296+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:48:02.300+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:48:02.299+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:48:03.392+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:48:03.425+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:48:03.424+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:48:03.453+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:48:03.453+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:48:03.486+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 1.200 seconds
+[2026-08-18T06:48:33.751+0000] {processor.py:186} INFO - Started process (PID=3351) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:48:33.752+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:48:33.755+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:48:33.754+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:48:34.188+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:48:34.211+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:48:34.211+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:48:34.230+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:48:34.230+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:48:34.245+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.499 seconds
+[2026-08-18T06:49:05.122+0000] {processor.py:186} INFO - Started process (PID=3362) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:49:05.124+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:49:05.126+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:49:05.126+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:49:05.536+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:49:05.559+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:49:05.559+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:49:05.577+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:49:05.576+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:49:05.615+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.499 seconds
+[2026-08-18T06:49:35.682+0000] {processor.py:186} INFO - Started process (PID=3373) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:49:35.684+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:49:35.687+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:49:35.687+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:49:36.275+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:49:36.313+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:49:36.312+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:49:36.337+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:49:36.336+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:49:36.358+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.683 seconds
+[2026-08-18T06:50:06.705+0000] {processor.py:186} INFO - Started process (PID=3384) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:50:06.707+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:50:06.710+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:50:06.710+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:50:07.294+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:50:07.328+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:50:07.327+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:50:07.351+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:50:07.351+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:50:07.393+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.695 seconds
+[2026-08-18T06:50:38.112+0000] {processor.py:186} INFO - Started process (PID=3395) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:50:38.115+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:50:38.120+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:50:38.119+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:50:38.644+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:50:38.667+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:50:38.667+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:50:38.693+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:50:38.693+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:50:38.713+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.609 seconds
+[2026-08-18T06:51:07.523+0000] {processor.py:186} INFO - Started process (PID=3406) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:07.525+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:51:07.528+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:07.527+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:07.950+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:08.057+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:08.057+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:51:08.074+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:08.074+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:51:08.119+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.602 seconds
+[2026-08-18T06:51:17.728+0000] {processor.py:186} INFO - Started process (PID=3412) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:17.729+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:51:17.732+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:17.732+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:18.289+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:18.302+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:18.301+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:51:18.319+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:18.319+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:51:18.364+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.641 seconds
+[2026-08-18T06:51:48.701+0000] {processor.py:186} INFO - Started process (PID=3430) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:48.703+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:51:48.708+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:48.708+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:49.210+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:51:49.324+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:49.323+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:51:49.345+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:51:49.345+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:51:49.393+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.700 seconds
+[2026-08-18T06:52:19.740+0000] {processor.py:186} INFO - Started process (PID=3441) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:52:19.741+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:52:19.743+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:52:19.743+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:52:20.163+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:52:20.193+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:52:20.193+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:52:20.212+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:52:20.212+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:52:20.234+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.499 seconds
+[2026-08-18T06:52:44.101+0000] {processor.py:186} INFO - Started process (PID=3452) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:52:44.106+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:52:44.111+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:52:44.111+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:52:44.644+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:52:44.775+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:52:44.774+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:52:44.802+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:52:44.801+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:52:44.855+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.761 seconds
+[2026-08-18T06:53:15.503+0000] {processor.py:186} INFO - Started process (PID=3470) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:53:15.504+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:53:15.507+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:53:15.506+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:53:15.904+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:53:15.926+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:53:15.926+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:53:15.941+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:53:15.941+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:53:15.977+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.479 seconds
+[2026-08-18T06:53:46.828+0000] {processor.py:186} INFO - Started process (PID=3481) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:53:46.829+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:53:46.832+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:53:46.831+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:53:47.331+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:53:47.357+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:53:47.357+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:53:47.380+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:53:47.380+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:53:47.422+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.601 seconds
+[2026-08-18T06:54:18.154+0000] {processor.py:186} INFO - Started process (PID=3499) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:54:18.155+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:54:18.158+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:54:18.158+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:54:18.563+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:54:18.608+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:54:18.608+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:54:18.624+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:54:18.624+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:54:18.638+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.490 seconds
+[2026-08-18T06:54:49.523+0000] {processor.py:186} INFO - Started process (PID=3510) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:54:49.525+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:54:49.528+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:54:49.528+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:54:50.039+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:54:50.069+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:54:50.068+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:54:50.086+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:54:50.085+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:54:50.130+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.614 seconds
+[2026-08-18T06:55:20.886+0000] {processor.py:186} INFO - Started process (PID=3521) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:55:20.888+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:55:20.890+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:55:20.890+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:55:21.325+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:55:21.347+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:55:21.346+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:55:21.362+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:55:21.362+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:55:21.389+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.510 seconds
+[2026-08-18T06:55:52.238+0000] {processor.py:186} INFO - Started process (PID=3532) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:55:52.240+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:55:52.244+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:55:52.243+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:55:52.720+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:55:52.743+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:55:52.743+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:55:52.758+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:55:52.758+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:55:52.794+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.564 seconds
+[2026-08-18T06:56:23.607+0000] {processor.py:186} INFO - Started process (PID=3543) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:23.608+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:56:23.610+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:23.610+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:24.037+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:24.059+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:24.059+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:56:24.076+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:24.076+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:56:24.119+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.517 seconds
+[2026-08-18T06:56:24.759+0000] {processor.py:186} INFO - Started process (PID=3549) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:24.760+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:56:24.764+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:24.764+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:25.311+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:25.344+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:25.344+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:56:25.367+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:25.366+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:56:25.390+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.639 seconds
+[2026-08-18T06:56:47.371+0000] {processor.py:186} INFO - Started process (PID=3560) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:47.373+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:56:47.376+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:47.376+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:48.006+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:56:48.037+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:48.037+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:56:48.076+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:56:48.076+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:56:48.113+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.749 seconds
+[2026-08-18T06:57:18.771+0000] {processor.py:186} INFO - Started process (PID=3571) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:18.773+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:57:18.777+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:18.776+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:19.253+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:19.277+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:19.276+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:57:19.293+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:19.293+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:57:19.310+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.547 seconds
+[2026-08-18T06:57:49.618+0000] {processor.py:186} INFO - Started process (PID=3582) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:49.620+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:57:49.623+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:49.623+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:50.042+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:50.066+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:50.066+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:57:50.085+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:50.085+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:57:50.102+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.489 seconds
+[2026-08-18T06:57:58.899+0000] {processor.py:186} INFO - Started process (PID=3588) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:58.901+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:57:58.904+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:58.904+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:59.448+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:57:59.480+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:59.480+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:57:59.508+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:57:59.507+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:57:59.538+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.645 seconds
+[2026-08-18T06:58:29.636+0000] {processor.py:186} INFO - Started process (PID=3599) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:58:29.639+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:58:29.642+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:58:29.642+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:58:30.234+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:58:30.266+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:58:30.265+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:58:30.291+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:58:30.291+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:58:30.315+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.688 seconds
+[2026-08-18T06:59:00.959+0000] {processor.py:186} INFO - Started process (PID=3617) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:59:00.961+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:59:00.966+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:59:00.965+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:59:01.551+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:59:01.584+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:59:01.583+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:59:01.608+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:59:01.607+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:59:01.653+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.703 seconds
+[2026-08-18T06:59:32.369+0000] {processor.py:186} INFO - Started process (PID=3628) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:59:32.371+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T06:59:32.376+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:59:32.375+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:59:32.944+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T06:59:32.985+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:59:32.984+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T06:59:33.013+0000] {logging_mixin.py:190} INFO - [2026-08-18T06:59:33.013+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T06:59:33.043+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.681 seconds
+[2026-08-18T07:00:03.843+0000] {processor.py:186} INFO - Started process (PID=3646) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:00:03.845+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:00:03.850+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:00:03.849+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:00:04.346+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:00:04.378+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:00:04.378+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:00:04.398+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:00:04.398+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:00:04.417+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.583 seconds
+[2026-08-18T07:00:34.604+0000] {processor.py:186} INFO - Started process (PID=3657) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:00:34.605+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:00:34.607+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:00:34.607+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:00:35.062+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:00:35.084+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:00:35.084+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:00:35.100+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:00:35.100+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:00:35.142+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.544 seconds
+[2026-08-18T07:01:05.892+0000] {processor.py:186} INFO - Started process (PID=3675) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:01:05.893+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:01:05.896+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:01:05.896+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:01:06.444+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:01:06.480+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:01:06.479+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:01:06.504+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:01:06.503+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:01:06.532+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.646 seconds
+[2026-08-18T07:01:37.308+0000] {processor.py:186} INFO - Started process (PID=3686) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:01:37.309+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:01:37.312+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:01:37.312+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:01:37.702+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:01:37.723+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:01:37.722+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:01:37.738+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:01:37.738+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:01:37.773+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.470 seconds
+[2026-08-18T07:02:07.882+0000] {processor.py:186} INFO - Started process (PID=3697) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:07.884+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:02:07.890+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:07.890+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:08.334+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:08.355+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:08.355+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:02:08.379+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:08.379+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:02:08.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.537 seconds
+[2026-08-18T07:02:39.169+0000] {processor.py:186} INFO - Started process (PID=3708) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:39.171+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:02:39.175+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:39.175+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:39.696+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:39.726+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:39.726+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:02:39.753+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:39.752+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:02:39.776+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.616 seconds
+[2026-08-18T07:02:59.052+0000] {processor.py:186} INFO - Started process (PID=3719) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:59.053+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:02:59.055+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:59.055+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:59.552+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:02:59.711+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:59.711+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:02:59.737+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:02:59.736+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:02:59.791+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.744 seconds
+[2026-08-18T07:03:30.380+0000] {processor.py:186} INFO - Started process (PID=3739) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:03:30.382+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:03:30.386+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:03:30.386+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:03:30.945+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:03:30.978+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:03:30.978+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:03:31.004+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:03:31.004+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:03:31.050+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.677 seconds
+[2026-08-18T07:04:01.433+0000] {processor.py:186} INFO - Started process (PID=3750) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:01.434+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:04:01.437+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:01.437+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:02.029+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:02.053+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:02.053+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:04:02.075+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:02.075+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:04:02.101+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.675 seconds
+[2026-08-18T07:04:15.262+0000] {processor.py:186} INFO - Started process (PID=3756) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:15.263+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:04:15.267+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:15.267+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:15.772+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:15.882+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:15.882+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:04:15.900+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:15.900+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:04:15.926+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.669 seconds
+[2026-08-18T07:04:46.183+0000] {processor.py:186} INFO - Started process (PID=3776) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:46.184+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:04:46.187+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:46.187+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:46.610+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:46.630+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:46.630+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:04:46.645+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:46.645+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:04:46.660+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.484 seconds
+[2026-08-18T07:04:49.403+0000] {processor.py:186} INFO - Started process (PID=3787) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:49.405+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:04:49.408+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:49.407+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:50.064+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:04:50.184+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:50.183+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:04:50.202+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:04:50.202+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:04:50.230+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.837 seconds
+[2026-08-18T07:05:20.606+0000] {processor.py:186} INFO - Started process (PID=3813) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:05:20.609+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:05:20.614+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:05:20.613+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:05:21.185+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:05:21.215+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:05:21.215+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:05:21.236+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:05:21.236+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:05:21.277+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.679 seconds
+[2026-08-18T07:05:51.464+0000] {processor.py:186} INFO - Started process (PID=3824) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:05:51.467+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:05:51.474+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:05:51.473+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:05:52.048+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:05:52.072+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:05:52.071+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:05:52.093+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:05:52.093+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:05:52.135+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.680 seconds
+[2026-08-18T07:06:22.414+0000] {processor.py:186} INFO - Started process (PID=3839) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:06:22.415+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:06:22.417+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:06:22.417+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:06:22.901+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:06:22.934+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:06:22.934+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:06:22.957+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:06:22.957+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:06:22.984+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.575 seconds
+[2026-08-18T07:06:53.745+0000] {processor.py:186} INFO - Started process (PID=3850) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:06:53.746+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:06:53.750+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:06:53.750+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:06:54.182+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:06:54.202+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:06:54.202+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:06:54.218+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:06:54.218+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:06:54.253+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.516 seconds
+[2026-08-18T07:07:24.335+0000] {processor.py:186} INFO - Started process (PID=3865) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:07:24.337+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:07:24.341+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:07:24.340+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:07:24.887+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:07:24.916+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:07:24.916+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:07:24.937+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:07:24.936+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:07:24.975+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.649 seconds
+[2026-08-18T07:07:43.173+0000] {processor.py:186} INFO - Started process (PID=3871) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:07:43.175+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:07:43.181+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:07:43.180+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:07:43.691+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:07:43.723+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:07:43.723+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:07:43.745+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:07:43.744+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:07:43.790+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.626 seconds
+[2026-08-18T07:08:13.868+0000] {processor.py:186} INFO - Started process (PID=3886) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:08:13.870+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:08:13.874+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:08:13.874+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:08:14.336+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:08:14.357+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:08:14.357+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:08:14.381+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:08:14.381+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:08:14.399+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.540 seconds
+[2026-08-18T07:08:45.156+0000] {processor.py:186} INFO - Started process (PID=3897) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:08:45.157+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:08:45.160+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:08:45.160+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:08:45.625+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:08:45.652+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:08:45.651+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:08:45.671+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:08:45.671+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:08:45.713+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.563 seconds
+[2026-08-18T07:09:15.863+0000] {processor.py:186} INFO - Started process (PID=3912) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:15.865+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:09:15.867+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:15.867+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:16.553+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:16.586+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:16.586+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:09:16.607+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:16.607+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:09:16.627+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.769 seconds
+[2026-08-18T07:09:20.604+0000] {processor.py:186} INFO - Started process (PID=3918) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:20.606+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:09:20.610+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:20.610+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:21.144+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:21.173+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:21.173+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:09:21.193+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:21.193+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:09:21.243+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.648 seconds
+[2026-08-18T07:09:41.521+0000] {processor.py:186} INFO - Started process (PID=3929) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:41.523+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:09:41.525+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:41.525+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:42.049+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:09:42.084+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:42.084+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:09:42.107+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:09:42.107+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:09:42.130+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.614 seconds
+[2026-08-18T07:10:12.483+0000] {processor.py:186} INFO - Started process (PID=3944) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:12.485+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:10:12.489+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:12.489+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:13.007+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:13.043+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:13.043+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:10:13.064+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:13.063+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:10:13.107+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.631 seconds
+[2026-08-18T07:10:28.723+0000] {processor.py:186} INFO - Started process (PID=3955) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:28.726+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:10:28.731+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:28.730+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:29.393+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:29.425+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:29.425+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:10:29.453+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:29.453+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:10:29.509+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.793 seconds
+[2026-08-18T07:10:59.873+0000] {processor.py:186} INFO - Started process (PID=3972) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:10:59.875+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:10:59.879+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:10:59.878+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:11:00.482+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:11:00.512+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:11:00.512+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:11:00.535+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:11:00.535+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:11:00.578+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.712 seconds
+[2026-08-18T07:11:31.302+0000] {processor.py:186} INFO - Started process (PID=3983) to work on /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:11:31.303+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/sales_validator_dag.py for tasks to queue
+[2026-08-18T07:11:31.307+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:11:31.306+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:11:31.730+0000] {processor.py:925} INFO - DAG(s) 'banking_analytics_pipeline' retrieved from /opt/airflow/dags/sales_validator_dag.py
+[2026-08-18T07:11:31.759+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:11:31.759+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-08-18T07:11:31.790+0000] {logging_mixin.py:190} INFO - [2026-08-18T07:11:31.789+0000] {dag.py:4180} INFO - Setting next_dagrun for banking_analytics_pipeline to 2026-08-17 07:30:00+00:00, run_after=2026-08-18 07:30:00+00:00
+[2026-08-18T07:11:31.811+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/sales_validator_dag.py took 0.517 seconds
